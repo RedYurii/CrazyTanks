@@ -1,0 +1,20 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (battleCityConsole.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Game.cpp
+e:\my c++ projects\battlecityconsole\battlecityconsole\game.cpp(63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\my c++ projects\battlecityconsole\battlecityconsole\game.cpp(88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\my c++ projects\battlecityconsole\battlecityconsole\game.cpp(99): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\my c++ projects\battlecityconsole\battlecityconsole\game.cpp(110): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+e:\my c++ projects\battlecityconsole\battlecityconsole\game.cpp(111): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+e:\my c++ projects\battlecityconsole\battlecityconsole\game.cpp(152): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+e:\my c++ projects\battlecityconsole\battlecityconsole\game.cpp(184): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\my c++ projects\battlecityconsole\battlecityconsole\game.cpp(187): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\my c++ projects\battlecityconsole\battlecityconsole\game.cpp(191): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\my c++ projects\battlecityconsole\battlecityconsole\game.cpp(195): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  TerrainObject.cpp
+  TankObject.cpp
+  ProjectileObject.cpp
+  Main.cpp
+  GameObjectBase.cpp
+  battleCityConsole.vcxproj -> E:\My C++ Projects\battleCityConsole\Debug\CrazyTanks.exe
